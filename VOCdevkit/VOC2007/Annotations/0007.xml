@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>sharks</folder>
+  <filename>0007.jpg</filename>
+  <path>/home/saiyan/&#22270;&#29255;/sharks/0007.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>650</width>
+    <height>429</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>shark</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>93</xmin>
+      <ymin>35</ymin>
+      <xmax>627</xmax>
+      <ymax>410</ymax>
+    </bndbox>
+  </object>
+</annotation>
